@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Try something new for 30 days!"
-date:   2019-04-30 02:30:40
+date:   2019-04-28 02:30:40
 categories: jekyll update
 ---
 A few years ago, I felt like I was stuck in a rut, so I decided to follow in the footsteps of the great American philosopher, Morgan Spurlock, and try something new for 30 days. The idea is actually pretty simple. Think about something you've always wanted to add to your life and try it for the next 30 days. It turns out 30 days is just about the right amount of time to add a new habit or subtract a habit -- like watching the news -- from your life. 
